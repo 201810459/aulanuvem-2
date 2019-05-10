@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Teste Heroku - PHP</title>
+    <title>Comparar Senhas - PHP</title>
 </head>
 <body>
     <fieldset>
